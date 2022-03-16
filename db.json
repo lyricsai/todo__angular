@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Smiling to everyone",
+      "day": "Every Morning",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Foing for a walk with a dog",
+      "day": "Daily",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Angular Lecture ",
+      "day": "10 am Thursday",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "AWS",
+      "day": "2 pm Wednesday",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
